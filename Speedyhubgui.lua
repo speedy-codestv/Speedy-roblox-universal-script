@@ -1,4 +1,4 @@
-https://github.com/speedy-codestv/Speedy-roblox-universal-script-- Speedy Hub Admin GUI
+-- Speedy Hub Admin GUI
 local Players = game:GetService("Players")
 local player = Players.LocalPlayer
 local PlayerGui = player:WaitForChild("PlayerGui")
